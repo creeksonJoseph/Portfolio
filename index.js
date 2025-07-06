@@ -78,14 +78,14 @@ function showBigCard(project) {
             <a 
               href="${data.github}" 
               target="_blank" 
-              class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
+              class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-900 transition"
             >
               <i class="fa-brands fa-github"></i> GitHub
             </a>
             <a 
               href="${data.deployed}" 
               target="_blank" 
-              class="px-4 py-2 bg-gray-900 text-white rounded hover:bg-gray-800 transition"
+              class="px-4 py-2 bg-gray-900 text-white rounded hover:bg-gray-500 transition"
             >
               Live Demo
             </a>
